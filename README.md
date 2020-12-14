@@ -11,5 +11,4 @@ Steps:</br>
   b. number of values to add</br>
 5. Run the script.</br>
 6. After the database has been filled, open the CarRegistrations.pbix file through Power BI Desktop, connect to the database, and see the  visualizations representing the created data.</br>
-</br>
-See more code and projects on my website <a href="https://terranjendro.wordpress.com/">here</a>.
+
